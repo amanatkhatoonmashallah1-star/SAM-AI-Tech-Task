@@ -1,0 +1,501 @@
+Restaurant_ID,Restaurant_Name,City,Cuisines,Average_Cost_for_two,Aggregate_Rating,Votes,Has_Online_delivery,Has_Table_booking
+100001,Kitchen 1 - Bistro,Pune,"Fast Food, South Indian",400,4.4,963,No,No
+100002,Pizza Hut,Mumbai,"Beverages, North Indian",2000,4.0,1091,Yes,Yes
+100003,Gulati,New Delhi,"Bakery, Fast Food, Mughlai",1500,3.6,640,Yes,No
+100004,Gulati,Bengaluru,"Asian, North Indian",2000,4.2,896,Yes,Yes
+100005,Kitchen 5 - Corner,Chennai,"Bakery, South Indian",1500,3.6,468,Yes,No
+100006,Wow! Momo,Pune,"Beverages, Chinese, Street Food",800,4.0,665,Yes,No
+100007,Kitchen 7 - Dine,Pune,"South Indian, Street Food",250,3.1,271,Yes,No
+100008,Kitchen 8 - Tandoor,Bengaluru,"Chinese, South Indian",1500,4.6,1345,Yes,Yes
+100009,Chili's Grill & Bar,Pune,"Fast Food, Italian",1200,3.3,464,No,Yes
+100010,Haldiram's,Mumbai,"Asian, Chinese",2000,4.3,1009,Yes,No
+100011,Kitchen 11 - Grill,Hyderabad,"Desserts, Mexican",1500,4.7,1128,Yes,No
+100012,Barbeque Nation,Pune,"Asian, Desserts, Italian",800,4.3,1349,Yes,No
+100013,Subway,Hyderabad,"Cafe, Desserts, North Indian",400,4.0,907,No,No
+100014,Kitchen 14 - Tandoor,Chennai,"North Indian, South Indian",400,3.1,298,Yes,No
+100015,Farzi Cafe,Hyderabad,Desserts,800,4.4,923,Yes,No
+100016,Kitchen 16 - Grill,Pune,"Biryani, Desserts",400,3.7,517,No,No
+100017,Punjab Grill,Mumbai,"Chinese, North Indian",400,4.0,694,Yes,No
+100018,Kitchen 18 - Bistro,Hyderabad,"Biryani, Street Food",2500,3.5,512,Yes,Yes
+100019,Kitchen 19 - Treat,New Delhi,Mughlai,250,3.6,527,Yes,No
+100020,Toit,Bengaluru,"Chinese, Mexican, South Indian",2000,3.3,378,Yes,No
+100021,Chili's Grill & Bar,New Delhi,"Cafe, Mexican",250,3.8,676,Yes,No
+100022,Kitchen 22 - Tandoor,Mumbai,Biryani,250,3.7,509,Yes,No
+100023,Burger King,Bengaluru,"Asian, Biryani, Italian",2500,2.3,144,Yes,No
+100024,Dominos Pizza,Hyderabad,"Bakery, Continental, North Indian",600,2.9,276,Yes,No
+100025,Kitchen 25 - Bistro,Chennai,Beverages,800,2.4,198,Yes,No
+100026,Kitchen 26 - Grill,Pune,"Continental, Desserts",1500,4.3,1055,Yes,No
+100027,Peshawri,Bengaluru,"Asian, Cafe",400,4.0,673,Yes,No
+100028,Kitchen 28 - Corner,Bengaluru,Continental,1200,3.7,595,Yes,Yes
+100029,Kitchen 29 - Express,New Delhi,"Chinese, Fast Food, Italian",800,3.4,496,No,No
+100030,Peshawri,Chennai,"Biryani, Italian",1200,3.2,300,Yes,No
+100031,Kitchen 31 - Express,Bengaluru,Biryani,250,3.9,726,Yes,No
+100032,Nirula's,Pune,"Continental, Desserts, North Indian",600,3.9,613,Yes,No
+100033,Nirula's,Chennai,"Continental, North Indian, South Indian",1500,4.3,834,No,Yes
+100034,Kitchen 34 - Treat,Chennai,Asian,400,4.2,1205,No,No
+100035,Kitchen 35 - Tandoor,Kolkata,"Biryani, Mexican",800,3.1,767,Yes,No
+100036,Bikanervala,Kolkata,"Chinese, Mexican",2000,4.4,1141,No,Yes
+100037,Wow! Momo,Mumbai,"Italian, North Indian",1500,3.2,347,No,Yes
+100038,Kitchen 38 - Grill,Hyderabad,North Indian,800,4.6,1059,No,No
+100039,Kitchen 39 - Express,Bengaluru,"Mexican, Street Food",1500,3.8,707,No,Yes
+100040,Kitchen 40 - Treat,Kolkata,"Mughlai, Street Food",1200,4.1,784,No,Yes
+100041,Cafe Coffee Day,Mumbai,"Beverages, Cafe",2500,4.0,659,Yes,Yes
+100042,Kitchen 42 - Tandoor,Pune,Chinese,1500,3.2,395,Yes,Yes
+100043,Kitchen 43 - Express,Bengaluru,"Fast Food, South Indian",400,3.7,492,No,No
+100044,Kitchen 44 - Express,Hyderabad,Bakery,600,3.6,802,Yes,No
+100045,Kitchen 45 - Tandoor,Chennai,"Asian, Mughlai, South Indian",800,3.8,579,Yes,No
+100046,Kitchen 46 - Tandoor,Kolkata,"Beverages, Desserts",2500,3.2,456,No,Yes
+100047,Kitchen 47 - Treat,Pune,"Asian, Biryani, Italian",2500,3.2,349,Yes,No
+100048,Cafe Coffee Day,Mumbai,"Continental, Desserts",800,3.7,597,Yes,No
+100049,Kitchen 49 - Dine,Hyderabad,"North Indian, South Indian",250,4.3,943,No,No
+100050,Kitchen 50 - Dine,Bengaluru,"Cafe, Mexican, Mughlai",800,3.9,616,No,No
+100051,McDonald's,Kolkata,Continental,600,4.5,1490,No,No
+100052,Kitchen 52 - Corner,Hyderabad,Mughlai,400,4.0,863,No,No
+100053,Paradise Biryani,Mumbai,Mughlai,1500,3.5,821,No,No
+100054,Kitchen 54 - Grill,Bengaluru,"Bakery, Biryani, North Indian",250,3.4,700,Yes,No
+100055,Kitchen 55 - Treat,Chennai,Fast Food,400,3.4,499,Yes,No
+100056,Kitchen 56 - Dine,Chennai,"Beverages, Cafe",1200,4.1,1080,Yes,Yes
+100057,Kitchen 57 - Corner,Pune,"Bakery, Cafe, Mughlai",800,3.2,306,Yes,No
+100058,Kitchen 58 - Dine,Chennai,"Asian, Chinese",250,4.4,926,No,No
+100059,Kitchen 59 - Express,Bengaluru,Street Food,2500,2.9,214,Yes,Yes
+100060,Nirula's,Chennai,"Fast Food, Mughlai",1200,3.2,352,No,Yes
+100061,Kitchen 61 - Corner,Bengaluru,"Mexican, South Indian",2500,4.3,898,Yes,Yes
+100062,Kitchen 62 - Express,Kolkata,"Biryani, Mexican",1500,3.5,448,No,No
+100063,Kitchen 63 - Express,Bengaluru,"Desserts, South Indian",2500,3.8,799,No,Yes
+100064,Cafe Coffee Day,Mumbai,"Italian, South Indian",1500,4.0,706,No,Yes
+100065,Kitchen 65 - Dine,Pune,"Cafe, Italian",1500,3.0,283,Yes,Yes
+100066,Kitchen 66 - Express,Mumbai,Bakery,1200,3.8,652,Yes,Yes
+100067,Chai Point,Mumbai,"Bakery, Desserts",600,3.3,349,No,No
+100068,Barbeque Nation,Hyderabad,"Biryani, Cafe",250,3.8,777,Yes,No
+100069,Sagar Ratna,Bengaluru,South Indian,800,4.2,770,No,No
+100070,Kitchen 70 - Grill,Bengaluru,"Beverages, Italian, Mughlai",400,4.1,1347,Yes,No
+100071,Kitchen 71 - Dine,Pune,South Indian,800,3.9,807,No,No
+100072,Kitchen 72 - Express,Chennai,"South Indian, Street Food",800,4.1,731,No,No
+100073,Haldiram's,Pune,Italian,1200,3.4,363,No,No
+100074,Kitchen 74 - Express,Kolkata,"Biryani, Cafe, Desserts",2000,3.7,740,No,Yes
+100075,Haldiram's,Pune,"Beverages, Cafe, North Indian",2500,4.2,943,No,No
+100076,Kitchen 76 - Express,Chennai,"Biryani, Chinese",400,3.6,638,Yes,No
+100077,The Fatty Bao,Kolkata,"Mexican, Mughlai",400,3.3,547,No,No
+100078,Kitchen 78 - Tandoor,New Delhi,"Biryani, Desserts",1500,3.7,498,No,Yes
+100079,Kitchen 79 - Treat,Bengaluru,"Cafe, Italian",400,3.6,509,Yes,No
+100080,Kitchen 80 - Corner,Chennai,"Fast Food, Italian",400,3.9,604,Yes,No
+100081,Kitchen 81 - Bistro,Kolkata,"Fast Food, Mexican, Street Food",1200,3.8,833,No,Yes
+100082,Kitchen 82 - Treat,Kolkata,"Mughlai, South Indian",600,4.5,1112,Yes,No
+100083,Glen's Bakehouse,Chennai,"Asian, Cafe",1200,3.8,595,No,Yes
+100084,Kitchen 84 - Express,Kolkata,"Biryani, Cafe, Desserts",2000,3.5,410,No,Yes
+100085,Kitchen 85 - Express,Mumbai,"Mexican, South Indian",2000,4.5,1022,No,Yes
+100086,Kitchen 86 - Express,Mumbai,"Fast Food, North Indian",400,3.8,593,No,No
+100087,Chili's Grill & Bar,Kolkata,Fast Food,600,3.6,638,Yes,No
+100088,Kitchen 88 - Dine,Bengaluru,"Mughlai, Street Food",2000,3.3,478,No,Yes
+100089,Kitchen 89 - Grill,Chennai,"Beverages, Chinese",1200,3.1,589,Yes,Yes
+100090,Kitchen 90 - Bistro,Chennai,"Chinese, Mexican",250,3.6,538,Yes,No
+100091,Dominos Pizza,Bengaluru,"Fast Food, Mughlai",600,3.4,381,Yes,No
+100092,Saravanaa Bhavan,Chennai,"South Indian, Street Food",800,3.8,722,No,No
+100093,Kitchen 93 - Grill,Bengaluru,"Asian, Cafe",600,3.8,749,Yes,No
+100094,Kitchen 94 - Dine,Hyderabad,"Bakery, Mughlai",2500,3.4,485,Yes,No
+100095,Kitchen 95 - Corner,Bengaluru,"Italian, North Indian, Street Food",250,3.7,708,No,No
+100096,Kitchen 96 - Dine,Chennai,"Asian, Beverages, Continental",1200,3.5,503,Yes,Yes
+100097,Kitchen 97 - Express,New Delhi,"Biryani, North Indian",400,4.1,808,No,No
+100098,McDonald's,Mumbai,"Asian, Desserts",1200,4.3,908,Yes,No
+100099,Kitchen 99 - Grill,Chennai,"Continental, Mexican",400,4.3,828,Yes,No
+100100,Kitchen 100 - Treat,Chennai,"Mughlai, Street Food",250,3.2,310,No,No
+100101,Kitchen 101 - Grill,Bengaluru,"Italian, Street Food",1500,4.2,763,Yes,Yes
+100102,Kitchen 102 - Corner,Hyderabad,"Beverages, South Indian",2500,4.1,849,No,Yes
+100103,Dominos Pizza,New Delhi,"Biryani, Chinese",2000,3.2,349,Yes,Yes
+100104,Kitchen 104 - Tandoor,Kolkata,"Italian, North Indian",2500,4.0,746,Yes,Yes
+100105,Bukhara,Bengaluru,"Continental, Street Food",400,3.3,683,No,No
+100106,Bikanervala,Pune,"Cafe, North Indian",600,4.1,740,Yes,No
+100107,Truffles,Hyderabad,"Mexican, South Indian",600,4.3,903,Yes,No
+100108,KFC,Mumbai,"Asian, Fast Food",800,3.3,537,No,No
+100109,Wow! Momo,New Delhi,Mughlai,2500,3.9,624,No,Yes
+100110,Kitchen 110 - Bistro,Kolkata,"Beverages, North Indian",250,4.0,652,Yes,No
+100111,Kitchen 111 - Tandoor,Kolkata,"Biryani, Chinese",400,4.1,749,No,No
+100112,Kitchen 112 - Bistro,Mumbai,"Beverages, Street Food",1200,3.9,612,No,Yes
+100113,Kitchen 113 - Tandoor,Pune,Street Food,800,4.4,1291,No,No
+100114,Kitchen 114 - Treat,Kolkata,"Biryani, Mughlai",2000,3.7,734,No,Yes
+100115,KFC,Pune,"Cafe, Chinese, Mexican",250,4.9,1452,No,No
+100116,Kitchen 116 - Grill,Bengaluru,"Asian, Bakery, Mughlai",1200,3.3,634,No,No
+100117,Kitchen 117 - Treat,Pune,"Chinese, Mexican",400,3.5,645,No,No
+100118,Kitchen 118 - Tandoor,Kolkata,"Asian, Beverages, Mexican",250,4.1,728,No,No
+100119,Wow! Momo,Pune,"Cafe, Continental, Mexican",600,3.9,920,Yes,No
+100120,Social,Mumbai,"Biryani, Continental",1500,3.4,478,Yes,Yes
+100121,Truffles,Hyderabad,Chinese,2500,3.2,540,No,Yes
+100122,Social,New Delhi,"Chinese, Italian",1200,4.2,1098,Yes,No
+100123,Kitchen 123 - Bistro,New Delhi,"Asian, South Indian",1500,3.4,419,Yes,No
+100124,Kitchen 124 - Treat,Mumbai,"Bakery, South Indian",1500,3.8,552,Yes,No
+100125,Kitchen 125 - Grill,New Delhi,"Chinese, Mexican",2000,3.5,439,No,No
+100126,Kitchen 126 - Dine,Mumbai,"Bakery, Beverages, Biryani",2000,4.2,842,Yes,No
+100127,The Belgian Waffle Co.,Mumbai,"Chinese, Fast Food",800,3.8,790,No,No
+100128,Karim's,Pune,"Chinese, Fast Food, South Indian",600,3.5,696,Yes,No
+100129,Truffles,Pune,"Asian, Beverages",1500,4.2,760,No,No
+100130,Paradise Biryani,Pune,"Beverages, Italian",1200,3.0,341,No,Yes
+100131,Karim's,Bengaluru,Mexican,250,3.9,666,No,No
+100132,Kitchen 132 - Corner,Pune,Beverages,250,3.8,572,No,No
+100133,Nirula's,Chennai,"Bakery, Chinese",800,3.8,553,No,No
+100134,Kitchen 134 - Corner,Hyderabad,"Cafe, Continental",1500,4.4,955,Yes,Yes
+100135,Kitchen 135 - Bistro,Bengaluru,Street Food,600,3.7,916,No,No
+100136,Bukhara,Mumbai,"Bakery, Italian, Street Food",400,4.0,698,No,No
+100137,Kitchen 137 - Express,Chennai,"Fast Food, Street Food",1200,3.8,644,Yes,Yes
+100138,Truffles,Kolkata,Fast Food,400,3.4,544,Yes,No
+100139,Kitchen 139 - Tandoor,Hyderabad,Mughlai,600,3.4,430,No,No
+100140,Chai Point,Pune,"Beverages, Biryani, Italian",800,4.8,1746,Yes,No
+100141,Glen's Bakehouse,Chennai,"Mexican, South Indian",1200,4.6,1536,No,Yes
+100142,Kitchen 142 - Treat,Chennai,Beverages,2500,3.4,405,No,Yes
+100143,Gulati,Hyderabad,"Asian, Chinese, Italian",600,3.3,429,No,No
+100144,Chili's Grill & Bar,Mumbai,"Cafe, Continental, North Indian",1500,3.7,540,Yes,No
+100145,Haldiram's,New Delhi,"Chinese, Mexican",600,4.1,748,Yes,No
+100146,Chili's Grill & Bar,Chennai,"Fast Food, Mexican",250,4.2,764,Yes,No
+100147,Bikanervala,Chennai,Bakery,1200,4.0,781,Yes,No
+100148,McDonald's,Pune,"Biryani, Chinese, Mexican",250,4.4,998,Yes,No
+100149,Kitchen 149 - Dine,Kolkata,Continental,400,3.4,370,No,No
+100150,Social,Hyderabad,"Cafe, Desserts",1500,3.2,342,No,Yes
+100151,Pizza Hut,Bengaluru,"Cafe, Street Food",1500,3.0,592,Yes,No
+100152,Kitchen 152 - Tandoor,Pune,Asian,600,3.8,575,Yes,No
+100153,Kitchen 153 - Grill,New Delhi,"Asian, North Indian",2500,4.6,1067,No,No
+100154,Kitchen 154 - Dine,Bengaluru,"Mexican, North Indian, Street Food",1500,3.6,543,No,Yes
+100155,Kitchen 155 - Grill,Bengaluru,"Bakery, Biryani, Cafe",1200,3.2,929,Yes,Yes
+100156,Saravanaa Bhavan,Chennai,Italian,1200,3.6,484,No,Yes
+100157,Kitchen 157 - Treat,Pune,"Biryani, North Indian",250,4.0,807,Yes,No
+100158,Kitchen 158 - Grill,Bengaluru,"Bakery, Street Food",2500,4.7,1340,Yes,No
+100159,Peshawri,Bengaluru,"Beverages, North Indian",1500,4.1,738,No,Yes
+100160,KFC,Hyderabad,"Continental, Street Food",400,4.0,835,No,No
+100161,Kitchen 161 - Express,Kolkata,"Beverages, Italian",400,3.5,469,No,No
+100162,The Fatty Bao,Kolkata,"Asian, Continental, Street Food",1200,4.3,974,No,Yes
+100163,Kitchen 163 - Express,Pune,Continental,800,3.8,685,Yes,No
+100164,Farzi Cafe,New Delhi,"Beverages, Continental",600,2.2,194,Yes,No
+100165,Burger King,Pune,"Asian, Desserts, Mughlai",600,3.6,456,No,No
+100166,Kitchen 166 - Grill,Kolkata,"Continental, Fast Food",600,3.9,856,No,No
+100167,Kitchen 167 - Tandoor,New Delhi,"Desserts, Fast Food, Italian",800,3.4,420,No,No
+100168,Kitchen 168 - Corner,Bengaluru,"Italian, South Indian, Street Food",1200,4.3,855,Yes,Yes
+100169,Sagar Ratna,Mumbai,Beverages,250,4.3,830,Yes,No
+100170,Peshawri,Chennai,"South Indian, Street Food",250,4.2,893,No,No
+100171,Kitchen 171 - Corner,Bengaluru,"Biryani, Italian",2000,2.7,331,No,Yes
+100172,Kitchen 172 - Treat,Kolkata,"Biryani, South Indian",1500,3.6,445,No,Yes
+100173,Chai Point,Hyderabad,"Continental, South Indian",800,3.8,642,Yes,No
+100174,Cafe Coffee Day,Kolkata,"Fast Food, Mughlai, South Indian",600,4.0,678,No,No
+100175,Kitchen 175 - Grill,Kolkata,"Biryani, Chinese, North Indian",800,4.6,1199,Yes,No
+100176,Kitchen 176 - Bistro,New Delhi,"Beverages, Mexican",250,4.0,668,Yes,No
+100177,Kitchen 177 - Dine,Pune,"Continental, Mughlai",1200,3.9,761,Yes,No
+100178,Kitchen 178 - Corner,Bengaluru,"Beverages, Cafe, Street Food",1500,3.4,435,No,Yes
+100179,Social,Kolkata,"Cafe, North Indian",2500,3.3,740,No,No
+100180,Kitchen 180 - Treat,Bengaluru,"Continental, Fast Food, Mughlai",2500,3.5,423,No,Yes
+100181,The Belgian Waffle Co.,Pune,Mughlai,250,4.2,821,No,No
+100182,Peshawri,Chennai,"Beverages, Cafe, South Indian",600,4.3,842,No,No
+100183,Bukhara,Mumbai,Bakery,800,3.6,830,No,No
+100184,Kitchen 184 - Corner,Kolkata,"Bakery, Cafe, North Indian",1500,4.2,1073,No,Yes
+100185,Subway,Kolkata,"Cafe, Continental, Desserts",1200,4.9,1346,No,No
+100186,Punjab Grill,Bengaluru,"Asian, Italian",2500,3.6,604,No,Yes
+100187,Kitchen 187 - Tandoor,Pune,"Beverages, Chinese",2000,4.0,894,No,Yes
+100188,Kitchen 188 - Dine,New Delhi,"Bakery, Chinese",1200,3.6,564,No,No
+100189,Kitchen 189 - Dine,Hyderabad,"Chinese, Fast Food",800,4.0,753,Yes,No
+100190,Kitchen 190 - Corner,Mumbai,"Chinese, North Indian",400,3.5,442,Yes,No
+100191,Punjab Grill,Mumbai,"Biryani, Cafe",1200,3.8,549,No,No
+100192,Truffles,New Delhi,"Desserts, South Indian",250,4.9,1643,Yes,No
+100193,Kitchen 193 - Tandoor,Mumbai,"Mexican, Mughlai, North Indian",1200,4.1,1043,Yes,No
+100194,Kitchen 194 - Bistro,Bengaluru,"Desserts, Street Food",600,4.0,790,No,No
+100195,Glen's Bakehouse,New Delhi,"Bakery, Biryani",250,4.3,886,No,No
+100196,Kitchen 196 - Corner,Pune,"Beverages, Fast Food, Street Food",400,3.8,599,Yes,No
+100197,Kitchen 197 - Grill,Bengaluru,"Italian, Mughlai, North Indian",1500,2.9,401,No,Yes
+100198,Kitchen 198 - Dine,Pune,"North Indian, South Indian",600,4.1,1038,No,No
+100199,Kitchen 199 - Express,Chennai,"Chinese, Street Food",800,4.3,1151,Yes,No
+100200,Kitchen 200 - Grill,Mumbai,"Beverages, Continental",2500,3.6,669,Yes,Yes
+100201,Kitchen 201 - Corner,Chennai,"Biryani, Cafe, Desserts",400,4.0,794,Yes,No
+100202,Kitchen 202 - Corner,Mumbai,"Cafe, Fast Food",400,3.5,414,Yes,No
+100203,Kitchen 203 - Grill,New Delhi,"Asian, Biryani, North Indian",2500,3.7,513,Yes,Yes
+100204,Kitchen 204 - Dine,Pune,Italian,400,4.9,1645,Yes,No
+100205,Kitchen 205 - Express,New Delhi,"Chinese, North Indian",1200,4.6,1183,No,No
+100206,Peshawri,Pune,"Continental, Mughlai",2000,4.5,967,No,No
+100207,Kitchen 207 - Tandoor,Hyderabad,Mexican,2000,3.6,458,Yes,Yes
+100208,Barbeque Nation,Chennai,Italian,2000,3.7,650,No,Yes
+100209,Chai Point,Mumbai,"Bakery, Cafe",250,4.2,759,Yes,No
+100210,Mainland China,Hyderabad,Beverages,800,4.9,1328,Yes,No
+100211,Kitchen 211 - Treat,Hyderabad,"Asian, Mexican",1200,3.0,353,Yes,Yes
+100212,Kitchen 212 - Dine,Hyderabad,"Mexican, Street Food",600,3.6,619,Yes,No
+100213,Kitchen 213 - Dine,New Delhi,"Bakery, Beverages",2000,4.7,1283,No,No
+100214,Peshawri,Pune,"Continental, Desserts",1200,4.1,735,No,No
+100215,Kitchen 215 - Treat,Chennai,"Bakery, Mexican",250,3.2,479,No,No
+100216,Kitchen 216 - Corner,Hyderabad,South Indian,400,3.5,441,No,No
+100217,Kitchen 217 - Bistro,Hyderabad,"Italian, North Indian, South Indian",250,3.5,460,Yes,No
+100218,Truffles,Hyderabad,"Biryani, Desserts, South Indian",400,3.5,606,No,No
+100219,Kitchen 219 - Express,Hyderabad,"Desserts, Mughlai, South Indian",2500,3.6,599,No,No
+100220,Nirula's,Kolkata,"Asian, Bakery",800,3.6,726,No,No
+100221,Dominos Pizza,Hyderabad,"Bakery, Fast Food, North Indian",600,3.9,746,Yes,No
+100222,Burger King,Hyderabad,"Biryani, Desserts, Street Food",2500,4.4,1019,No,Yes
+100223,Kitchen 223 - Dine,Mumbai,Desserts,250,3.7,501,Yes,No
+100224,Kitchen 224 - Bistro,Chennai,"Asian, North Indian",800,3.3,395,Yes,No
+100225,Kitchen 225 - Bistro,Mumbai,"Continental, North Indian",2500,4.1,743,No,No
+100226,Kitchen 226 - Grill,New Delhi,Bakery,600,4.6,1085,Yes,No
+100227,Kitchen 227 - Corner,Mumbai,"Beverages, Desserts",2000,3.5,942,Yes,No
+100228,Kitchen 228 - Corner,Mumbai,"Italian, South Indian, Street Food",2000,3.1,337,No,No
+100229,Subway,New Delhi,"Mughlai, Street Food",400,4.4,1227,Yes,No
+100230,Nirula's,Chennai,"Beverages, Biryani",250,4.0,789,Yes,No
+100231,Kitchen 231 - Dine,New Delhi,"Asian, Beverages, Fast Food",800,4.3,1061,No,No
+100232,Kitchen 232 - Corner,Bengaluru,"Bakery, Fast Food",400,4.6,1148,No,No
+100233,McDonald's,Mumbai,"Asian, Beverages, Continental",1500,4.0,769,Yes,Yes
+100234,Kitchen 234 - Grill,Kolkata,"Desserts, Mughlai",2000,3.6,544,Yes,Yes
+100235,Haldiram's,Pune,Italian,600,2.8,216,No,No
+100236,Mainland China,New Delhi,Italian,400,3.6,634,Yes,No
+100237,McDonald's,Kolkata,"Desserts, Mughlai",1500,3.9,635,No,No
+100238,Kitchen 238 - Tandoor,New Delhi,"Beverages, Desserts, South Indian",600,3.9,589,Yes,No
+100239,Wow! Momo,Kolkata,Fast Food,2500,3.7,642,Yes,No
+100240,Kitchen 240 - Express,Pune,"Beverages, South Indian",250,3.8,564,No,No
+100241,Saravanaa Bhavan,Kolkata,"Biryani, Cafe, Continental",600,3.5,824,No,No
+100242,The Fatty Bao,Mumbai,"Fast Food, Mughlai",2500,4.4,1355,Yes,No
+100243,Glen's Bakehouse,Kolkata,"Beverages, Cafe",250,2.6,511,No,No
+100244,Kitchen 244 - Treat,Kolkata,"Bakery, Chinese, Mexican",1200,3.6,511,Yes,No
+100245,McDonald's,Chennai,"Beverages, Biryani",2000,3.8,537,Yes,Yes
+100246,Nirula's,Chennai,"Chinese, Street Food",1500,3.4,757,Yes,Yes
+100247,Peshawri,Pune,"Asian, Continental",250,4.5,1050,Yes,No
+100248,Social,Pune,"Bakery, Beverages",2000,3.9,1095,No,Yes
+100249,Kitchen 249 - Corner,Mumbai,"Biryani, North Indian",400,3.2,790,Yes,No
+100250,Kitchen 250 - Express,Mumbai,"Biryani, Continental",1500,4.3,1111,No,No
+100251,Kitchen 251 - Grill,Bengaluru,North Indian,1500,4.1,750,Yes,Yes
+100252,Toit,Mumbai,"Desserts, Fast Food",2500,3.5,474,Yes,Yes
+100253,Kitchen 253 - Treat,Pune,"Mughlai, North Indian",250,3.7,772,Yes,No
+100254,Truffles,Pune,"Beverages, Cafe, Chinese",1500,4.4,950,No,No
+100255,Bukhara,Chennai,"Continental, Street Food",400,4.0,667,No,No
+100256,Paradise Biryani,Hyderabad,Street Food,400,4.1,819,Yes,No
+100257,Haldiram's,Bengaluru,Continental,2000,4.1,1110,Yes,Yes
+100258,Kitchen 258 - Grill,Pune,"Cafe, Street Food",600,3.4,540,No,No
+100259,Kitchen 259 - Corner,New Delhi,"Biryani, Fast Food, North Indian",2500,3.4,488,No,Yes
+100260,Kitchen 260 - Tandoor,Kolkata,"Beverages, Chinese",1200,3.6,457,Yes,Yes
+100261,Kitchen 261 - Tandoor,Chennai,"Chinese, Desserts",1500,3.9,728,Yes,Yes
+100262,Kitchen 262 - Treat,Kolkata,Mexican,250,4.0,1331,No,No
+100263,Gulati,Chennai,Mexican,1500,2.6,164,No,No
+100264,Bikanervala,Chennai,"Beverages, North Indian",600,3.6,552,No,No
+100265,Kitchen 265 - Dine,Bengaluru,"Desserts, Mexican",800,3.1,577,No,No
+100266,Kitchen 266 - Corner,Pune,"Cafe, Mughlai",400,3.7,689,No,No
+100267,Kitchen 267 - Dine,Pune,"Biryani, Continental, Mexican",2500,4.7,1304,No,Yes
+100268,Kitchen 268 - Grill,Mumbai,"Biryani, Mexican, South Indian",1500,2.6,323,Yes,Yes
+100269,Kitchen 269 - Dine,Pune,"Chinese, North Indian, Street Food",400,4.3,891,Yes,No
+100270,Kitchen 270 - Bistro,Kolkata,"Bakery, Fast Food",1200,4.3,876,Yes,Yes
+100271,Chai Point,Pune,"Fast Food, Mughlai, North Indian",800,4.2,1007,No,No
+100272,Kitchen 272 - Express,New Delhi,Biryani,2500,2.9,456,Yes,No
+100273,Mainland China,Chennai,"Biryani, Fast Food",400,3.2,595,Yes,No
+100274,Nirula's,Bengaluru,Asian,400,4.2,1125,Yes,No
+100275,Kitchen 275 - Treat,Kolkata,"South Indian, Street Food",800,4.0,747,Yes,No
+100276,Kitchen 276 - Treat,Chennai,Bakery,1200,3.6,547,Yes,No
+100277,Kitchen 277 - Express,Hyderabad,"Bakery, North Indian",1200,4.7,1365,Yes,Yes
+100278,Kitchen 278 - Express,Kolkata,"Asian, North Indian",2500,3.8,692,Yes,Yes
+100279,Kitchen 279 - Dine,Bengaluru,Mexican,600,4.3,1005,No,No
+100280,Kitchen 280 - Tandoor,New Delhi,Chinese,2000,3.7,725,No,Yes
+100281,Punjab Grill,Hyderabad,"Chinese, Italian",800,3.5,732,Yes,No
+100282,Kitchen 282 - Grill,Hyderabad,"Mexican, Street Food",2000,4.0,701,Yes,No
+100283,McDonald's,New Delhi,"Beverages, North Indian",600,3.2,363,Yes,No
+100284,KFC,Pune,Biryani,1200,4.6,1058,Yes,No
+100285,Kitchen 285 - Tandoor,Bengaluru,"Asian, Chinese, North Indian",400,3.6,572,No,No
+100286,Kitchen 286 - Corner,Pune,Biryani,600,3.8,540,No,No
+100287,Truffles,New Delhi,"Bakery, Chinese, Street Food",250,3.3,420,Yes,No
+100288,Farzi Cafe,Bengaluru,"Cafe, Fast Food",2000,4.3,941,Yes,No
+100289,Kitchen 289 - Express,Bengaluru,"Beverages, Chinese",250,3.6,493,Yes,No
+100290,Social,New Delhi,"Biryani, Chinese, Italian",400,4.1,831,No,No
+100291,Bikanervala,Bengaluru,"Bakery, Italian",2500,4.0,644,Yes,Yes
+100292,Kitchen 292 - Tandoor,Mumbai,Cafe,1500,3.7,492,Yes,Yes
+100293,Bukhara,Kolkata,"Bakery, Chinese, Italian",600,2.1,326,No,No
+100294,Chili's Grill & Bar,Mumbai,"Bakery, Desserts, Mughlai",400,4.4,960,Yes,No
+100295,Kitchen 295 - Express,Chennai,"Beverages, Cafe",1500,3.4,382,No,Yes
+100296,Kitchen 296 - Dine,Kolkata,"Chinese, South Indian",400,3.7,597,No,No
+100297,Kitchen 297 - Treat,Kolkata,"Italian, Mexican",1200,3.4,582,Yes,No
+100298,Kitchen 298 - Treat,New Delhi,"Continental, Desserts, Mughlai",600,3.2,329,Yes,No
+100299,Kitchen 299 - Tandoor,Kolkata,"Desserts, South Indian",250,4.1,844,Yes,No
+100300,Karim's,Kolkata,"Cafe, Street Food",400,2.9,221,Yes,No
+100301,Kitchen 301 - Treat,Pune,"Chinese, Fast Food",2500,3.6,450,Yes,No
+100302,Kitchen 302 - Tandoor,Pune,"Mughlai, North Indian",800,4.0,753,Yes,No
+100303,Paradise Biryani,Mumbai,Beverages,2500,4.1,814,No,Yes
+100304,Kitchen 304 - Bistro,Bengaluru,"Mughlai, South Indian",800,4.4,1045,Yes,No
+100305,Kitchen 305 - Tandoor,Pune,"Asian, Desserts",1500,3.6,636,No,No
+100306,Saravanaa Bhavan,Mumbai,Asian,250,4.0,1198,Yes,No
+100307,Kitchen 307 - Tandoor,Kolkata,"Cafe, Mexican",1500,3.4,471,No,Yes
+100308,The Fatty Bao,Bengaluru,"Beverages, Cafe, Fast Food",250,3.8,593,Yes,No
+100309,Saravanaa Bhavan,Mumbai,Biryani,600,3.5,638,No,No
+100310,KFC,Hyderabad,"Asian, Chinese, Fast Food",2000,4.4,940,Yes,No
+100311,Subway,Pune,"Asian, Biryani, Street Food",1500,4.0,726,Yes,Yes
+100312,Kitchen 312 - Grill,Bengaluru,"Fast Food, Italian, Mexican",250,4.4,905,Yes,No
+100313,Kitchen 313 - Tandoor,Hyderabad,"Beverages, Chinese",1500,4.1,701,Yes,Yes
+100314,Kitchen 314 - Tandoor,Pune,"Bakery, Continental",800,3.7,980,Yes,No
+100315,Glen's Bakehouse,New Delhi,"Biryani, Mughlai, North Indian",2000,4.5,1237,No,Yes
+100316,Farzi Cafe,Chennai,"Asian, Cafe, Street Food",250,3.4,540,No,No
+100317,Wow! Momo,New Delhi,Fast Food,400,4.2,838,Yes,No
+100318,Saravanaa Bhavan,Kolkata,"Fast Food, Mughlai, Street Food",250,4.0,668,Yes,No
+100319,Bikanervala,Kolkata,"Bakery, Cafe",1200,3.9,611,Yes,No
+100320,Punjab Grill,Chennai,"Continental, North Indian",2500,4.5,1009,Yes,No
+100321,Peshawri,Bengaluru,"Biryani, Chinese, Mexican",2500,3.5,520,No,No
+100322,Kitchen 322 - Treat,Bengaluru,"Biryani, Continental, Fast Food",1200,3.1,450,Yes,Yes
+100323,Kitchen 323 - Treat,Chennai,"Cafe, Chinese",2000,4.6,1205,Yes,Yes
+100324,Kitchen 324 - Tandoor,Hyderabad,"Desserts, Street Food",800,4.4,942,No,No
+100325,Burger King,Chennai,"Beverages, Cafe, Desserts",600,4.6,1508,Yes,No
+100326,Kitchen 326 - Grill,Mumbai,"Asian, Fast Food, South Indian",1500,3.1,463,Yes,No
+100327,Kitchen 327 - Corner,Bengaluru,"Biryani, Desserts, North Indian",2000,4.5,1087,Yes,Yes
+100328,Sagar Ratna,Hyderabad,"Beverages, Cafe, Chinese",1500,4.9,1444,No,No
+100329,Kitchen 329 - Corner,Hyderabad,"Fast Food, Italian",2000,3.6,524,Yes,No
+100330,Kitchen 330 - Express,Mumbai,Biryani,2500,3.6,485,Yes,Yes
+100331,Cafe Coffee Day,Pune,"Continental, Mexican",400,3.5,467,Yes,No
+100332,Kitchen 332 - Tandoor,Kolkata,"Asian, Continental, Desserts",600,4.4,1106,Yes,No
+100333,Social,Kolkata,Mexican,600,3.8,537,Yes,No
+100334,Kitchen 334 - Treat,Chennai,North Indian,800,3.3,344,No,No
+100335,Paradise Biryani,Hyderabad,"Cafe, Chinese",2500,4.0,647,No,No
+100336,Kitchen 336 - Corner,Hyderabad,"Fast Food, Mexican",2000,4.0,646,Yes,No
+100337,Kitchen 337 - Treat,Chennai,"South Indian, Street Food",250,3.1,552,Yes,No
+100338,Kitchen 338 - Treat,Pune,Asian,1200,4.2,941,No,Yes
+100339,Kitchen 339 - Grill,Bengaluru,"Italian, Street Food",400,3.8,631,Yes,No
+100340,Kitchen 340 - Express,Chennai,"Beverages, Desserts, Street Food",400,3.9,601,No,No
+100341,Wow! Momo,Pune,"Cafe, Italian",800,4.0,741,Yes,No
+100342,Kitchen 342 - Tandoor,Chennai,"Continental, Street Food",2500,4.4,989,No,No
+100343,Kitchen 343 - Grill,Pune,Bakery,2500,3.3,354,No,Yes
+100344,Kitchen 344 - Tandoor,Pune,"Chinese, Fast Food, Italian",600,3.7,572,No,No
+100345,Kitchen 345 - Treat,Bengaluru,"Italian, Mexican",1500,3.2,369,No,Yes
+100346,Kitchen 346 - Bistro,Kolkata,Street Food,400,4.9,1445,No,No
+100347,Kitchen 347 - Corner,New Delhi,"Desserts, Italian, Mughlai",600,3.2,444,Yes,No
+100348,Kitchen 348 - Dine,Kolkata,"Biryani, Cafe, Fast Food",400,3.2,300,No,No
+100349,Subway,Bengaluru,"Biryani, North Indian",600,3.0,304,Yes,No
+100350,Kitchen 350 - Tandoor,Chennai,Beverages,2000,3.7,634,No,No
+100351,Bikanervala,Pune,"Continental, North Indian",250,4.3,929,Yes,No
+100352,Kitchen 352 - Treat,Mumbai,"Continental, Italian",1200,3.3,617,Yes,No
+100353,Cafe Coffee Day,Kolkata,"Beverages, Continental, Desserts",600,3.6,603,No,No
+100354,Kitchen 354 - Grill,Bengaluru,"Asian, Fast Food, Mughlai",400,3.0,260,No,No
+100355,Kitchen 355 - Tandoor,New Delhi,"Italian, Street Food",250,4.4,904,Yes,No
+100356,Kitchen 356 - Bistro,New Delhi,"Biryani, Mughlai",2500,3.6,596,Yes,No
+100357,Kitchen 357 - Bistro,Bengaluru,"Chinese, Street Food",600,3.8,538,No,No
+100358,Kitchen 358 - Bistro,Hyderabad,"Cafe, Chinese, Italian",800,4.3,956,No,No
+100359,Kitchen 359 - Treat,Bengaluru,"Fast Food, Italian, North Indian",2500,4.3,1246,No,No
+100360,Pizza Hut,New Delhi,"Biryani, Fast Food, Street Food",2500,4.8,1339,No,No
+100361,Karim's,Mumbai,"Continental, Italian, Mexican",400,4.2,832,Yes,No
+100362,Kitchen 362 - Bistro,New Delhi,"Cafe, Fast Food, Street Food",1200,2.4,261,Yes,No
+100363,Mainland China,Kolkata,"Biryani, Italian",2500,4.7,1217,No,Yes
+100364,Kitchen 364 - Bistro,Mumbai,"Mexican, North Indian",2500,3.3,444,No,No
+100365,Chai Point,Hyderabad,Street Food,2500,4.5,1392,Yes,Yes
+100366,Kitchen 366 - Bistro,Bengaluru,"Bakery, North Indian",800,4.5,1039,No,No
+100367,Kitchen 367 - Express,Pune,"Mughlai, Street Food",2000,4.2,1246,Yes,Yes
+100368,Kitchen 368 - Corner,New Delhi,Cafe,800,3.1,615,No,No
+100369,Kitchen 369 - Bistro,Hyderabad,"Mughlai, Street Food",2500,3.7,519,No,Yes
+100370,Kitchen 370 - Tandoor,Kolkata,"Biryani, Chinese",250,3.7,497,Yes,No
+100371,Kitchen 371 - Corner,Pune,"Cafe, Desserts",1500,3.0,249,No,Yes
+100372,Kitchen 372 - Tandoor,Kolkata,"Asian, Beverages",1500,4.1,700,No,No
+100373,Kitchen 373 - Treat,New Delhi,"Mexican, Street Food",1500,4.4,908,Yes,No
+100374,KFC,Chennai,"Bakery, Chinese, Mughlai",400,3.5,573,No,No
+100375,Karim's,Chennai,Continental,400,3.2,304,No,No
+100376,Kitchen 376 - Corner,Hyderabad,Biryani,2500,3.9,643,Yes,Yes
+100377,Karim's,Mumbai,Street Food,2000,4.5,1246,No,Yes
+100378,Kitchen 378 - Tandoor,Mumbai,"Continental, Italian",2000,3.8,538,No,Yes
+100379,Kitchen 379 - Dine,Pune,"Desserts, South Indian, Street Food",1200,3.1,514,No,Yes
+100380,The Fatty Bao,Pune,"Desserts, Fast Food, Mexican",400,4.0,689,No,No
+100381,Kitchen 381 - Corner,Hyderabad,"Bakery, Mughlai, Street Food",1200,4.9,1320,No,Yes
+100382,Kitchen 382 - Bistro,Kolkata,Street Food,600,3.3,505,No,No
+100383,Kitchen 383 - Treat,Chennai,Asian,250,3.1,410,No,No
+100384,Kitchen 384 - Bistro,Hyderabad,"Bakery, Desserts, South Indian",800,4.3,1139,No,No
+100385,Kitchen 385 - Bistro,Kolkata,"Asian, Street Food",250,3.4,561,No,No
+100386,Gulati,Chennai,"Biryani, Mexican, South Indian",800,4.3,1068,Yes,No
+100387,Subway,Pune,Fast Food,250,4.0,689,No,No
+100388,Wow! Momo,Mumbai,Mexican,600,3.5,430,Yes,No
+100389,The Belgian Waffle Co.,Hyderabad,Cafe,1200,4.5,1174,No,Yes
+100390,Kitchen 390 - Bistro,Chennai,"Desserts, Fast Food, South Indian",600,3.9,832,No,No
+100391,Kitchen 391 - Grill,New Delhi,"Cafe, South Indian",1200,4.0,1338,Yes,Yes
+100392,Kitchen 392 - Grill,Hyderabad,"Chinese, North Indian, Street Food",800,4.1,777,Yes,No
+100393,Kitchen 393 - Dine,Kolkata,"Chinese, Italian, Mughlai",1500,3.8,604,No,Yes
+100394,Peshawri,Mumbai,"Cafe, Chinese",400,3.8,759,Yes,No
+100395,Kitchen 395 - Tandoor,Mumbai,"Chinese, Mexican, Mughlai",400,3.5,463,Yes,No
+100396,The Fatty Bao,Bengaluru,Chinese,800,3.9,986,No,No
+100397,Kitchen 397 - Grill,Pune,"Continental, North Indian",250,3.7,780,Yes,No
+100398,Kitchen 398 - Corner,New Delhi,"Chinese, Continental, Desserts",2500,3.6,526,No,No
+100399,Kitchen 399 - Grill,Mumbai,"Bakery, Fast Food",1200,3.3,534,Yes,No
+100400,Kitchen 400 - Tandoor,Chennai,"Continental, Desserts, North Indian",250,4.2,969,Yes,No
+100401,Kitchen 401 - Grill,Hyderabad,"Chinese, Italian",1500,2.8,199,Yes,Yes
+100402,Kitchen 402 - Corner,Mumbai,South Indian,400,3.9,934,Yes,No
+100403,Kitchen 403 - Corner,Chennai,Asian,1200,3.7,592,Yes,No
+100404,Sagar Ratna,Kolkata,"Continental, Fast Food, Street Food",400,3.9,848,Yes,No
+100405,Paradise Biryani,Bengaluru,"Bakery, Italian",1500,4.0,697,No,Yes
+100406,The Belgian Waffle Co.,Mumbai,"Bakery, Cafe, Street Food",600,3.5,739,No,No
+100407,Kitchen 407 - Grill,Kolkata,"Biryani, Italian",400,3.9,659,No,No
+100408,Kitchen 408 - Treat,Hyderabad,Bakery,2000,3.8,536,Yes,Yes
+100409,Kitchen 409 - Corner,Hyderabad,"Asian, Fast Food",1200,3.7,840,Yes,Yes
+100410,Kitchen 410 - Grill,Bengaluru,"South Indian, Street Food",600,3.9,600,No,No
+100411,Sagar Ratna,Hyderabad,"Bakery, Fast Food",800,3.5,458,Yes,No
+100412,Kitchen 412 - Corner,Chennai,"Biryani, Cafe",1200,3.9,1035,No,Yes
+100413,Kitchen 413 - Grill,Pune,"Beverages, Street Food",1500,3.4,813,No,Yes
+100414,Kitchen 414 - Bistro,Hyderabad,"Biryani, Fast Food, South Indian",1500,3.5,528,Yes,Yes
+100415,Kitchen 415 - Dine,Pune,Street Food,600,3.8,684,No,No
+100416,Dominos Pizza,Mumbai,"Cafe, Fast Food",600,3.9,674,Yes,No
+100417,Chili's Grill & Bar,Mumbai,"Beverages, Mughlai",2500,3.2,345,No,No
+100418,Kitchen 418 - Corner,Mumbai,"Asian, Fast Food, Mexican",600,4.0,699,No,No
+100419,Kitchen 419 - Corner,Hyderabad,Mughlai,800,3.7,654,No,No
+100420,Kitchen 420 - Corner,New Delhi,Cafe,400,3.9,795,Yes,No
+100421,Kitchen 421 - Treat,Hyderabad,"Asian, North Indian",2000,4.1,933,No,Yes
+100422,Kitchen 422 - Grill,Mumbai,"Asian, Biryani, Mexican",400,3.6,676,No,No
+100423,Farzi Cafe,Chennai,"Chinese, Mexican",250,3.7,501,Yes,No
+100424,Kitchen 424 - Grill,Pune,"Asian, Continental",2000,3.7,589,No,No
+100425,Kitchen 425 - Corner,Bengaluru,"Mughlai, Street Food",2500,4.2,768,Yes,No
+100426,Kitchen 426 - Dine,Bengaluru,"Asian, Bakery",400,3.7,606,Yes,No
+100427,Kitchen 427 - Express,Mumbai,Desserts,250,3.7,574,Yes,No
+100428,Peshawri,New Delhi,"Biryani, Fast Food, Mexican",400,4.4,1221,No,No
+100429,Pizza Hut,Hyderabad,Mughlai,1200,4.4,958,Yes,Yes
+100430,Kitchen 430 - Express,Kolkata,"Mexican, South Indian",1200,4.5,985,Yes,No
+100431,Kitchen 431 - Corner,Pune,"Fast Food, Street Food",800,3.6,465,Yes,No
+100432,Kitchen 432 - Bistro,New Delhi,"Bakery, Mexican",1500,3.9,800,No,No
+100433,Kitchen 433 - Grill,Kolkata,"Fast Food, Italian",400,3.7,631,No,No
+100434,Mainland China,Chennai,"Desserts, Italian",2500,4.4,909,No,Yes
+100435,Kitchen 435 - Tandoor,Bengaluru,"Biryani, Cafe, Street Food",2000,3.8,548,Yes,Yes
+100436,The Belgian Waffle Co.,Kolkata,"Cafe, Desserts, North Indian",1200,4.0,821,Yes,No
+100437,Kitchen 437 - Dine,New Delhi,"Biryani, Fast Food",1200,3.6,453,Yes,Yes
+100438,Kitchen 438 - Treat,Kolkata,"Bakery, Cafe, South Indian",800,4.2,1017,Yes,No
+100439,Kitchen 439 - Dine,Mumbai,"Cafe, Chinese, Street Food",250,4.6,1227,Yes,No
+100440,Kitchen 440 - Dine,Hyderabad,"Beverages, Cafe",1200,4.4,906,No,No
+100441,Kitchen 441 - Bistro,Hyderabad,"Biryani, Desserts, North Indian",600,3.8,548,No,No
+100442,Kitchen 442 - Express,Hyderabad,"Bakery, North Indian",1200,3.9,1233,Yes,Yes
+100443,Farzi Cafe,Hyderabad,"Biryani, Fast Food",1500,3.7,557,No,Yes
+100444,Subway,Hyderabad,Beverages,1200,4.7,1194,Yes,Yes
+100445,Kitchen 445 - Treat,Mumbai,"Bakery, Biryani, Fast Food",2500,4.1,949,Yes,Yes
+100446,Kitchen 446 - Corner,Hyderabad,"Asian, Biryani, Italian",1200,3.4,803,No,Yes
+100447,Toit,Bengaluru,"Continental, Desserts",1500,4.1,1338,Yes,Yes
+100448,Bukhara,Hyderabad,Beverages,1200,4.1,907,No,No
+100449,Kitchen 449 - Tandoor,Pune,"Chinese, Mughlai",600,4.0,710,Yes,No
+100450,Kitchen 450 - Dine,Kolkata,"Beverages, Mughlai",1500,3.4,375,No,Yes
+100451,Kitchen 451 - Grill,Bengaluru,"Asian, Continental, Mexican",2500,4.2,984,No,No
+100452,Kitchen 452 - Treat,Pune,"Bakery, Italian",600,4.0,762,No,No
+100453,Pizza Hut,Kolkata,"Asian, North Indian",400,3.4,445,Yes,No
+100454,KFC,New Delhi,"Cafe, Mughlai",1200,3.6,797,No,Yes
+100455,Karim's,Mumbai,Street Food,2500,2.4,124,No,Yes
+100456,Kitchen 456 - Dine,Hyderabad,"Bakery, Desserts",2000,3.1,364,No,Yes
+100457,Kitchen 457 - Treat,Chennai,Italian,1200,3.6,444,Yes,No
+100458,Kitchen 458 - Tandoor,Mumbai,"Biryani, Desserts",250,4.5,1061,No,No
+100459,Kitchen 459 - Corner,Mumbai,"Continental, Desserts, South Indian",2000,3.6,451,Yes,No
+100460,Kitchen 460 - Grill,Chennai,"Chinese, Italian",1200,3.7,506,No,Yes
+100461,Kitchen 461 - Dine,Kolkata,Chinese,2500,3.4,381,No,No
+100462,Kitchen 462 - Treat,Bengaluru,North Indian,600,4.4,1050,No,No
+100463,Kitchen 463 - Treat,New Delhi,Biryani,2500,3.4,567,No,Yes
+100464,Kitchen 464 - Dine,New Delhi,"Fast Food, Italian, North Indian",2500,4.1,829,Yes,No
+100465,Kitchen 465 - Tandoor,Kolkata,"Asian, Bakery, Chinese",2500,2.9,698,Yes,Yes
+100466,Paradise Biryani,Pune,"Desserts, South Indian, Street Food",1200,3.7,557,No,No
+100467,Kitchen 467 - Express,Hyderabad,"Biryani, Italian",250,3.9,636,Yes,No
+100468,Kitchen 468 - Treat,Pune,"Fast Food, North Indian",2000,4.4,1197,Yes,No
+100469,Glen's Bakehouse,Pune,"Beverages, Fast Food",600,3.7,525,No,No
+100470,Saravanaa Bhavan,Bengaluru,"Asian, North Indian, Street Food",600,4.6,1539,No,No
+100471,Punjab Grill,Chennai,"Asian, Continental",600,3.1,264,No,No
+100472,Kitchen 472 - Grill,Pune,"Desserts, Italian",600,4.0,1165,No,No
+100473,Paradise Biryani,Bengaluru,"Beverages, Desserts, Mexican",2500,3.2,299,No,Yes
+100474,Kitchen 474 - Grill,New Delhi,"Bakery, Desserts, Mughlai",2000,3.0,566,Yes,Yes
+100475,Kitchen 475 - Corner,Mumbai,"Continental, Mughlai",400,3.9,698,Yes,No
+100476,Kitchen 476 - Treat,Mumbai,"Biryani, Chinese, South Indian",2500,4.0,1383,No,No
+100477,The Fatty Bao,New Delhi,Cafe,400,3.3,337,No,No
+100478,Kitchen 478 - Bistro,Bengaluru,"Cafe, Mughlai",1200,3.9,706,Yes,Yes
+100479,Kitchen 479 - Bistro,New Delhi,"Desserts, Mughlai, South Indian",600,3.0,756,No,No
+100480,Kitchen 480 - Tandoor,Pune,"Biryani, Street Food",400,4.1,808,Yes,No
+100481,Kitchen 481 - Corner,Kolkata,"Fast Food, Street Food",1500,3.9,734,No,Yes
+100482,Kitchen 482 - Tandoor,Bengaluru,"Mughlai, Street Food",800,4.2,937,Yes,No
+100483,Punjab Grill,Pune,"Biryani, Cafe",250,3.2,384,Yes,No
+100484,Kitchen 484 - Dine,New Delhi,"Cafe, South Indian",1200,4.7,1273,Yes,No
+100485,Kitchen 485 - Treat,Mumbai,"Beverages, Cafe",1200,3.5,532,Yes,Yes
+100486,Kitchen 486 - Treat,Pune,Continental,400,4.1,1044,No,No
+100487,Glen's Bakehouse,Hyderabad,"Asian, North Indian",2000,4.3,831,No,Yes
+100488,Truffles,Mumbai,"Beverages, Mexican, North Indian",250,4.1,747,No,No
+100489,Kitchen 489 - Dine,Hyderabad,"Continental, Desserts",2000,4.0,1090,No,Yes
+100490,Kitchen 490 - Bistro,Mumbai,"Asian, Mughlai",2500,3.3,657,Yes,Yes
+100491,Burger King,Hyderabad,"Bakery, Fast Food",800,4.2,850,No,No
+100492,Sagar Ratna,Mumbai,"Bakery, Desserts",2000,3.6,587,No,Yes
+100493,Kitchen 493 - Bistro,Pune,"Cafe, Continental",250,3.4,411,No,No
+100494,Chai Point,Hyderabad,"Asian, Beverages, Biryani",1500,4.1,729,Yes,Yes
+100495,Kitchen 495 - Bistro,Pune,Beverages,2500,4.0,733,No,No
+100496,Punjab Grill,Mumbai,"Asian, Desserts",600,3.4,427,Yes,No
+100497,Nirula's,Pune,"Fast Food, Italian",1200,3.3,457,Yes,Yes
+100498,Kitchen 498 - Bistro,Kolkata,"Mexican, Street Food",400,4.4,905,Yes,No
+100499,Nirula's,Pune,"Desserts, Mughlai",400,2.6,691,Yes,No
+100500,Paradise Biryani,Hyderabad,"Cafe, North Indian, South Indian",2500,4.3,1466,No,Yes
